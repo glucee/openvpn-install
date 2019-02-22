@@ -53,6 +53,7 @@ If you have any question, head to the [FAQ](#faq) first.
 - Block DNS leaks on Windows 10
 - Randomised server certificate name
 - Choice to protect clients with a password (private key encryption)
+- Support multiple users to use one .ovpn file
 - Many other little things!
 
 ## Compatibility
