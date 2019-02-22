@@ -123,6 +123,9 @@ Since 2016, the two scripts have diverged and are not alike anymore, especially 
 
 ---
 
+## Support multiple users to use same config
+Add duplicate-cn to /etc/openvpn/server.conf
+
 ## Security and Encryption
 
 OpenVPN's default settings are pretty weak regarding encryption. This script aims to improve that.
